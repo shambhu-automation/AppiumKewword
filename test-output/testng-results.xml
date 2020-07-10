@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Appium Tests" duration-ms="156764" started-at="2020-07-10T17:29:33Z" finished-at="2020-07-10T17:32:10Z">
+    <groups>
+    </groups>
+    <test name="Amazon App Test" duration-ms="156764" started-at="2020-07-10T17:29:33Z" finished-at="2020-07-10T17:32:10Z">
+      <class name="runner.TestController">
+        <test-method status="PASS" signature="initBrowser()[pri:0, instance:runner.TestController@3551a94]" name="initBrowser" is-config="true" duration-ms="1540" started-at="2020-07-10T22:59:33Z" finished-at="2020-07-10T22:59:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initBrowser -->
+        <test-method status="PASS" signature="TestCaseController()[pri:0, instance:runner.TestController@3551a94]" name="TestCaseController" duration-ms="155184" started-at="2020-07-10T22:59:35Z" finished-at="2020-07-10T23:02:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCaseController -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:runner.TestController@3551a94]" name="quitBrowser" is-config="true" duration-ms="0" started-at="2020-07-10T23:02:10Z" finished-at="2020-07-10T23:02:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- runner.TestController -->
+    </test> <!-- Amazon App Test -->
+  </suite> <!-- Appium Tests -->
+</testng-results>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [Appium Tests]">
+  <test name="Amazon App Test(failed)">
+    <classes>
+      <class name="runner.TestController">
+        <methods>
+          <include name="quitBrowser"/>
+          <include name="TestCaseController"/>
+          <include name="initBrowser"/>
+        </methods>
+      </class> <!-- runner.TestController -->
+    </classes>
+  </test> <!-- Amazon App Test(failed) -->
+</suite> <!-- Failed suite [Appium Tests] -->
